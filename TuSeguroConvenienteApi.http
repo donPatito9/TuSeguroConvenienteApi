@@ -1,0 +1,6 @@
+@TuSeguroConvenienteApi_HostAddress = http://localhost:5228
+
+GET {{TuSeguroConvenienteApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
